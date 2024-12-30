@@ -1,0 +1,4 @@
+torch torchvision torch-directml
+# tensorboard==2.15.2 tensorflow==2.15.0.post1
+onnxruntime-gpu
+-r requirements.txt
